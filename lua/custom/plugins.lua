@@ -61,7 +61,8 @@ local plugins = {
         "black",
         "mypy",
         "ruff",
-        "debugpy"
+        "debugpy",
+        "terraform-ls"
       },
     },
   },
